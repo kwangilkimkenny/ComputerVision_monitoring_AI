@@ -1,0 +1,5 @@
+classes = 22
+train = /Users/kimkwangil/Project/YOLO-3-OpenCV/Downloads/youtube_movToImgs/train.txt
+valid = /Users/kimkwangil/Project/YOLO-3-OpenCV/Downloads/youtube_movToImgs/test.txt
+names = /Users/kimkwangil/Project/YOLO-3-OpenCV/Downloads/youtube_movToImgs/classes.names
+backup = backup
